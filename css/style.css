@@ -345,7 +345,7 @@ img {
 
 @media (max-width: 700px) {
     #showcase::after {
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(0, 0, 0, 0.2);
     box-shadow: inset 40px 40px 160px #000000, inset -40px -40px 160px #000000;
   }
   
