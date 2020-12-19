@@ -169,6 +169,10 @@ img {
   margin-bottom: 1.5rem;
 }
 
+.footer a:hover {
+  color: #4a11ae;
+}
+
 .footer .footer-cols {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
